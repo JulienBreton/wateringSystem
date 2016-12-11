@@ -26,7 +26,6 @@ void loop() {
   printHumidity();
   delay(PRINT_TIME);
   lcd.clear();
-  
 }
 
 void printTemperature(){
@@ -102,6 +101,3 @@ float getHumidity(){
 
   return h;
 }
-
-
-
