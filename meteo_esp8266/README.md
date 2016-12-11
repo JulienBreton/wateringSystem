@@ -1,5 +1,4 @@
-# wateringSystem
+# wateringSystem on esp8266
 
-* Arduino Uno
+* nodemcu(esp8266)
 * DHT11 : sensor for measuring temperature and humidity
-* LCD : shield LCD 16x2
